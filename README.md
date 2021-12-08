@@ -8,7 +8,7 @@ Technology/Framework Used:Java, JUnit, Selenium, Maven,Cucumber Framework Used: 
 
 Executing Program:
 
-Import the project in Eclipse.
-1.Go to the below Path:Amazon\src\test\javaRunner\TestRunner.java
-2.Change the chome path :Amazon\src\test\java\StepDefinition\BaseClass.java 
-3.Add more testcases/tests in the below path Path: Amazon\src\test\resources\Features\MavelSearchPage.feature
+1.Import the project in Eclipse.
+2.Go to the below Path:Amazon\src\test\javaRunner\TestRunner.java
+3.Change the chome path :Amazon\src\test\java\StepDefinition\BaseClass.java 
+4.Add more testcases/tests in the below path Path: Amazon\src\test\resources\Features\MavelSearchPage.feature
