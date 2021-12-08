@@ -1,4 +1,8 @@
-Installation: 1.You need to have Java 8 JDK installed along with maven. 2.To run the tests locally with Chrome, install ChromeDriver and add its location to your system PATH. 3.Install Eclipse for write and run the test scripts.4. Add Cucumber eclipse plugin in eclipse
+Installation: 
+1.You need to have Java 8 JDK installed along with maven.
+2.To run the tests locally with Chrome, install ChromeDriver and add its location to your system PATH.
+3.Install Eclipse for write and run the test scripts.
+4. Add Cucumber eclipse plugin in eclipse
 
 Technology/Framework Used:Java, JUnit, Selenium, Maven,Cucumber Framework Used: Page Object Model
 
